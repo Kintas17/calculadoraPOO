@@ -1,0 +1,10 @@
+C:\Users\P114\source\repos\CalculadoraPOO\CalculadoraPOO\bin\Debug\CalculadoraPOO.exe.config
+C:\Users\P114\source\repos\CalculadoraPOO\CalculadoraPOO\bin\Debug\CalculadoraPOO.exe
+C:\Users\P114\source\repos\CalculadoraPOO\CalculadoraPOO\bin\Debug\CalculadoraPOO.pdb
+C:\Users\P114\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.csprojAssemblyReference.cache
+C:\Users\P114\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.Form1.resources
+C:\Users\P114\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.Properties.Resources.resources
+C:\Users\P114\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.csproj.GenerateResource.cache
+C:\Users\P114\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.csproj.CoreCompileInputs.cache
+C:\Users\P114\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.exe
+C:\Users\P114\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.pdb
